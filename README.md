@@ -1,6 +1,6 @@
 ### Eae galera, Eu sou Thiago Ferreira 👋
 
-- 🧑🏻‍💻 Estou estudando desenvolvimento de Software na Cubos Academy
+- 🧑🏻‍💻 Estou estudando Desenvolvimento de Software na Cubos Academy
 - Contato: 📧 tllucasferreira15@gmail.com 
   
 <div>
