@@ -1,6 +1,6 @@
 ### Eae galera, Eu sou Thiago Ferreira 👋
 
-- 🧑🏻‍💻 Estou estudando Desenvolvimento de Software na Cubos Academy
+- 🧑🏻‍💻 Sou Desenvolvedor FullStack HTML|CSS|JavaScript|React|node js|PostgreSQL
 - Contato: 📧 thiagoferreira.dev.br@gmail.com 
   
 
