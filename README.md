@@ -1,6 +1,6 @@
 ### Eae galera, Eu sou Thiago Ferreira 👋
 
-- 🧑🏻‍💻 Sou Desenvolvedor FullStack HTML | CSS | JavaScript | React | node js | PostgreSQL
+- 🧑🏻‍💻 Sou Desenvolvedor FullStack HTML | CSS | JavaScript | React | Node js | PostgreSQL | Fluig
 - Contato: 📧 thiagoferreira.dev.br@gmail.com 
   
 
